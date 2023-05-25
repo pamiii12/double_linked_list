@@ -173,7 +173,7 @@ int main() {
 			char ch;
 			cin >> ch;
 
-			switch (ch) {
+			switch (ch) { 
 			case '1' :
 				obj.addNode();
 				break;
