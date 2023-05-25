@@ -9,3 +9,12 @@ public:
 	node* next;
 	node* prev;
  }; 
+
+class DoubleLInkedList {
+private:
+	node* START;
+public:
+	DoubleLInkedList();
+
+
+};
